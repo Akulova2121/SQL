@@ -1,0 +1,77 @@
+   
+    Build: 1
+    Enviranment: Redmi 9
+    Test date: 01.01.22
+    Tester: Akulova
+
+    Title                                      ER                       Result
+    
+    Install the application           Application installed            Installed
+    
+    Launch the application            Application launched             Launched
+    
+    Create a new to-do list           New to-do list created           Created
+    
+    Open new to-do list               New to-do list opened            open
+    
+    Create a new task                 New job created                  Created
+
+    Close to-do list                  To-do list is closed             closed
+
+    Close the application             Applications closed              closed
+
+
+    
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+checkL[+] [unix] (03:59 01/01/1970)                                                                                                                                                                       6,69 All
+-- INSERT --
+
